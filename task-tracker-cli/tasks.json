@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "description": "Belajar PHP CLI",
+        "status": "done",
+        "createAt": "2025-09-28 03:48:49",
+        "updateAt": "2025-09-28 04:37:04"
+    },
+    {
+        "id": 2,
+        "description": "Belajar PHP Basic with PZN",
+        "status": "todo",
+        "createAt": "2025-09-28 03:49:12",
+        "updateAt": "2025-09-28 03:52:11"
+    },
+    {
+        "id": 4,
+        "description": "Belajar Laravel",
+        "status": "in-progress",
+        "createAt": "2025-09-28 03:49:40",
+        "updateAt": "2025-09-28 04:37:57"
+    },
+    {
+        "id": 5,
+        "description": "Belajar javascript",
+        "status": "todo",
+        "createAt": "2025-09-28 04:38:21",
+        "updateAt": "2025-09-28 04:38:21"
+    }
+]
